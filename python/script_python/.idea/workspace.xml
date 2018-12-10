@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ceda1c-6ac1-4fbc-9cfc-cc7774771a17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/comprimento_hipotenusa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quebrando_numero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seno_coss_tang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorteio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aplicações/.ipynb_checkpoints/Aluguel de Carros-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../aplicações/.ipynb_checkpoints/Aluguel de Carros-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorteio_ordem_lista.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sorteio.py">
+        <entry file="file://$PROJECT_DIR$/sorteio_ordem_lista.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="11" />
+              <caret selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -46,6 +42,7 @@
         <option value="$PROJECT_DIR$/comprimento_hipotenusa.py" />
         <option value="$PROJECT_DIR$/seno_coss_tang.py" />
         <option value="$PROJECT_DIR$/sorteio.py" />
+        <option value="$PROJECT_DIR$/sorteio_ordem_lista.py" />
       </list>
     </option>
   </component>
@@ -89,28 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sorteio">
-    <configuration name="aluguel_carros" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="script_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aluguel_carros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sorteio_ordem_lista">
     <configuration name="comprimento_hipotenusa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="script_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,13 +171,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sorteio_ordem_lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="script_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorteio_ordem_lista.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sorteio_ordem_lista" />
         <item itemvalue="Python.sorteio" />
         <item itemvalue="Python.seno_coss_tang" />
         <item itemvalue="Python.comprimento_hipotenusa" />
         <item itemvalue="Python.quebrando_numero" />
-        <item itemvalue="Python.aluguel_carros" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +271,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorteio_ordem_lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" />
         </state>
       </provider>
     </entry>
