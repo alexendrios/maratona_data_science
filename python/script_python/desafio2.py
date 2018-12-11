@@ -1,7 +1,0 @@
-print("Informe os Seguintes Dados do seu Nascimento")
-print("*************************************************")
-dia = input("dia = ")
-mes = input("mês = ")
-ano = input("ano = ")
-print("***************************************************")
-print("Sua data de Nascimento é ", dia, "/", mes, "/", ano)

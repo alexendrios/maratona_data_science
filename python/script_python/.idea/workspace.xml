@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ceda1c-6ac1-4fbc-9cfc-cc7774771a17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tocando_mp3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisando_numero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analisando_texto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafio3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test02.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +18,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analisando_numero.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +50,8 @@
         <option value="$PROJECT_DIR$/sorteio.py" />
         <option value="$PROJECT_DIR$/sorteio_ordem_lista.py" />
         <option value="$PROJECT_DIR$/tocando_mp3.py" />
+        <option value="$PROJECT_DIR$/analisando_texto.py" />
+        <option value="$PROJECT_DIR$/analisando_numero.py" />
       </list>
     </option>
   </component>
@@ -78,8 +96,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tocando_mp3">
-    <configuration name="comprimento_hipotenusa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.analisando_numero">
+    <configuration name="analisando_numero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="script_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comprimento_hipotenusa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analisando_numero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seno_coss_tang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="analisando_texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="script_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seno_coss_tang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analisando_texto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.analisando_numero" />
+        <item itemvalue="Python.analisando_texto" />
         <item itemvalue="Python.tocando_mp3" />
         <item itemvalue="Python.sorteio_ordem_lista" />
         <item itemvalue="Python.sorteio" />
-        <item itemvalue="Python.seno_coss_tang" />
-        <item itemvalue="Python.comprimento_hipotenusa" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +237,7 @@
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2045134" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2045134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,6 +329,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analisando_texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analisando_numero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
