@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ceda1c-6ac1-4fbc-9cfc-cc7774771a17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analisando_numero.py" beforeDir="false" afterPath="$PROJECT_DIR$/analisando_numero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tocando_mp3.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/imprime_idade_extenso.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +35,7 @@
         <option value="$PROJECT_DIR$/analisando_texto.py" />
         <option value="$PROJECT_DIR$/tocando_mp3.py" />
         <option value="$PROJECT_DIR$/analisando_numero.py" />
+        <option value="$PROJECT_DIR$/imprime_idade_extenso.py" />
       </list>
     </option>
   </component>
@@ -83,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.analisando_numero">
+  <component name="RunManager" selected="Python.imprime_idade_extenso">
     <configuration name="analisando_numero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="script_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +117,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analisando_texto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imprime_idade_extenso" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="script_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imprime_idade_extenso.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,6 +211,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.imprime_idade_extenso" />
         <item itemvalue="Python.analisando_numero" />
         <item itemvalue="Python.analisando_texto" />
         <item itemvalue="Python.sorteio_ordem_lista" />
@@ -221,14 +242,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978261" visible="true" weight="0.20058565" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978261" visible="true" weight="0.20058565" />
       <window_info id="Structure" order="1" sideWeight="0.5021739" side_tool="true" weight="0.20058565" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3164933" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3164933" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -330,13 +351,7 @@
     <entry file="file://$PROJECT_DIR$/desafio2.py" />
     <entry file="file://$PROJECT_DIR$/desafio3.py" />
     <entry file="file://$PROJECT_DIR$/test01.py" />
-    <entry file="file://$PROJECT_DIR$/tocando_mp3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tocando_mp3.py" />
     <entry file="file://$PROJECT_DIR$/analisando_texto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -348,6 +363,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imprime_idade_extenso.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="595" column="15" lean-forward="true" selection-start-line="595" selection-start-column="15" selection-end-line="595" selection-end-column="15" />
         </state>
       </provider>
     </entry>
